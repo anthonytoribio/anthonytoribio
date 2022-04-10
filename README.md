@@ -1,5 +1,9 @@
-### Hi there 👋
+![alt text](https://github.com/anthonytoribio/anthonytoribio/blob/main/Banner1.png)
+## **Hello there! I'm Anthony, and I am a 2nd year CS student @ UC Irvine.**
 
+I enjoy programming and creating applications. I am interested in full-stack development and android development.\
+I am proficient in Python, C++, Kotlin, and Java. Feel free to browse through my projects and contributions. If you\
+would like to contact me, feel free to send me an [email](anthonytoribio01@gmail.com).
 <!--
 **anthonytoribio/anthonytoribio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
