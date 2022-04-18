@@ -4,7 +4,7 @@
 I enjoy programming and creating applications. I am interested in full-stack development and android development.\
 I am proficient in Python, C++, Kotlin, and Java. Feel free to browse through my projects and contributions. If you\
 would like to contact me, feel free to send me an [email](anthonytoribio01@gmail.com).\
-Some fun facts about me: * I have been running competitively since 8th grade. * My favorite band, as of now is, Radiohead. * I plan to run a marathon very soon!
+Some fun facts about me: - I have been running competitively since 8th grade. - My favorite band, as of now is, Radiohead. - I plan to run a marathon very soon!
 <!--
 **anthonytoribio/anthonytoribio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
