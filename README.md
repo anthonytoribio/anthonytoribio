@@ -1,5 +1,5 @@
 ![alt text](https://github.com/anthonytoribio/anthonytoribio/blob/main/Banner1.png)
-## **Hello there! I'm Anthony, and I am a 2nd year CS student @ UC Irvine.**
+## **Hello there! I'm Anthony, and I am a 3rd year CS student @ UC Irvine.**
 
 I enjoy programming and creating applications. I am interested in full-stack development and android development.\
 I am proficient in Python, C++, Kotlin, and Java. Feel free to browse through my projects and contributions. If you\
