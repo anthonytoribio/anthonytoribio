@@ -8,6 +8,7 @@ Some fun facts about me:
 - I have been running competitively since 8th grade. 
 - My favorite band, as of now is, Radiohead. 
 - I plan to run a marathon very soon!
+- I am interning at Microsoft as a SWE this summer
 <!--
 **anthonytoribio/anthonytoribio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
